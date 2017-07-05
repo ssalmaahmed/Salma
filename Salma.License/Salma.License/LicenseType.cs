@@ -8,6 +8,7 @@ namespace Salma.License
 {
     public enum LicenseType
     {
-        TRIAL
+        TRIAL,
+        Full
     }
 }
